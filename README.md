@@ -1,8 +1,10 @@
 # Reclaim
-## A React.js frontend application
-## Makers Academy Final Project - Team LADZ
 
-## Summary
+A React.js frontend application
+
+## Makers Academy Final Project
+
+### Summary
 
 The Reclaim web application is a loyalty card application that rewards users for recycling pacakging and promotes small businesses.
 
@@ -24,13 +26,13 @@ The development team:
   - Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 - `yarn test-coverage` - runs tests and gives coverage
 
-# React auto generated Readme instructions:
+### React auto generated Readme instructions:
 
-# Getting Started with Create React App
+##### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
